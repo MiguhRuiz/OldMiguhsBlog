@@ -1,6 +1,6 @@
 name: Miguh Blog
 description: Mi blog personal.
-url: http://http://blog.imiguh12.x10.mx/
+url: http://blog.imiguh12.x10.mx/
 
 markdown: rdiscount
 permalink: pretty
