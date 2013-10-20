@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¡Wellcome World!
+title: ¡Nueva Versión De Club Penguin Diver disponible!
 ---
 [![Versión 2.0](/uploads/2013/10/ClubPenguinDiver2.0.png)](http://penguindiver.tk)
 Buenas Amig@s;
