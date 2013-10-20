@@ -2,7 +2,7 @@
 layout: post
 title: ¡Nueva Versión De Club Penguin Diver disponible!
 ---
-[![Versión 2.0](/uploads/2013/10/ClubPenguinDiver2.0.png)](http://penguindiver.tk)
+[![Versión 2.0](/uploads/2013/10/ClubPenguinDiver2.0.PNG)](http://penguindiver.tk)
 Buenas Amig@s;
 Desde este lunes, 14 de Octubre ya está disponible la nueva versión de la página web de mi sitio web sobre Club Penguin, estas son las novedades que trae esta versión de la web.
 
