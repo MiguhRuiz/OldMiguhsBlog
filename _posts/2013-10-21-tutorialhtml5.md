@@ -13,7 +13,6 @@ Esta es la plantilla o snippet;
 	<title></title>
 </head>
 <body>
-
 </body>
 </html>
 </code>
