@@ -10,4 +10,4 @@ Eurotronics vende este revolucionario producto por solo 45E, el envío, gestiona
 Es decir, por tan solo 47,99E podemos disfrutar de este revolucionario invento de Google, antes que cualquier español.
 
 El único problema es que incluye un adaptador Corriente-USB por si el USB no lo puedes poner en tu TV(El que le da potencia) tiene la entrada para un enchufe de EEUU pero, casi todas las HDTV tienen USB o en casa tenemos ese adaptador ya que así biene con los smartphones.
-<p><a href="http://www.amazon.es/gp/product/B00DR0PDNE/">Comprar El Chromecast Mediante Amazon España</a></p>
+<p><a href="http://www.amazon.es/H2G2-42-Google-Chromecast/dp/B00DR0PDNE/ref=aag_m_pw_dp?ie=UTF8&m=A2KDGSY9TNZ6EH">Comprar El Chromecast Mediante Amazon España</a></p>
