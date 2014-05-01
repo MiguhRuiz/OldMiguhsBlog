@@ -86,7 +86,7 @@
           transition: all 0.1s ease-in-out;
 }
 .bootstrap-logo:hover img {
-  -webkit-box-shadow: 0 2px 15px rgba(109,51,83,.75);
-     -moz-box-shadow: 0 2px 15px rgba(109,51,83,.75);
-          box-shadow: 0 2px 15px rgba(109,51,83,.75);
+  -webkit-box-shadow: 0 2px 15px rgba(0,255,255,.75);
+     -moz-box-shadow: 0 2px 15px rgba(0,255,255,.75);
+          box-shadow: 0 2px 15px rgba(0,255,255,.75);
 }
