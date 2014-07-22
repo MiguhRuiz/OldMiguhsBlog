@@ -4,7 +4,7 @@ Mi propio blog hostedo por Github Pages, para crear un blog como este solo tiene
 <3
 
 ## Novedades de la versión 2.0(22 JUL 2014)
-* Añadido el código compatible para funcionar con Google Analytics
+* Añadido el código compatible para funcionar con Google Analytics.
 * Cambiados los "records" para una navegación más rápida y impresionante. [Véase aquí](https://github.com/blog/1715-faster-more-awesome-github-pages)
 * Actualizados algunas "URL'S" y una imágen para un correcto uso de la mejora del punto anterior(Uso de un CDN).
 
